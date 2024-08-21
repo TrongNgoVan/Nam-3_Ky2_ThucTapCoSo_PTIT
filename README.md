@@ -22,3 +22,4 @@
     - Báo cáo nên viết chỉn chu từng tuần , báo cáo cuối cùng sẽ tổng hợp từ các tuần, bắt buộc phải viết bằng Latex.
     - Môn này quan trọng nhất là thái độ, trách nhiệm học hành : Phải cho thầy/cô thấy được sự nghiêm túc, chăm chỉ, chỉn chu, nhiệt huyết với định hướng.
 
+Link Youtube: https://www.youtube.com/playlist?list=PLJRGMao4zHQi2J0yH8kZOZ8AErmJULf1D
