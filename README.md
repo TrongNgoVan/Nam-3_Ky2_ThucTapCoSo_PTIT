@@ -1,6 +1,6 @@
+## Thực tập cơ sở - GVHD : ThS. Đinh Xuân Trường
 ## Link Youtube
  https://www.youtube.com/playlist?list=PLJRGMao4zHQi2J0yH8kZOZ8AErmJULf1D
-## Thực tập cơ sở - GVHD : ThS. Đinh Xuân Trường
 ## Nội dung môn học : Báo cáo hằng tuần theo lộ trình sau: 
 1. Chọn định hướng phát triển .
    - Có thể làm nhóm hoặc cá nhân , báo cáo này sẽ đưa ra định hướng cho cả quá trình: Ví dụ là lập trình ứng dụng , mô hình AI và dữ liệu.
